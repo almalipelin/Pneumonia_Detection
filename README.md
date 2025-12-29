@@ -20,7 +20,6 @@ Projede Kaggle'dan alınan **"Chest X-Ray Images (Pneumonia)"** veri seti kullan
 ## 📈 Sonuç Grafikleri
 Eğitim süresince elde edilen Başarı (Accuracy) ve Kayıp (Loss) grafikleri aşağıdadır:
 
-![Başarı Grafiği](sonuc_grafikleri.png)
 <img width="990" height="374" alt="image" src="https://github.com/user-attachments/assets/be49b446-186a-46e8-82ff-eaef3e59c1d3" />
 
 
